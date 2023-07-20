@@ -1,7 +1,7 @@
-package ru.gb.final_contact_book.M.Model;
+package ru.gb.FINAL.final_contact_book.M.Model;
 
 
-import ru.gb.final_contact_book.M.Enum.Gender;
+import ru.gb.FINAL.final_contact_book.M.Enum.Gender;
 
 import java.time.LocalDate;
 import java.time.Period;

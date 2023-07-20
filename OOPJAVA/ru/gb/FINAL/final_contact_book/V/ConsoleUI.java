@@ -1,8 +1,8 @@
-package ru.gb.final_contact_book.V;
+package ru.gb.FINAL.final_contact_book.V;
 
 
-import ru.gb.final_contact_book.M.Enum.Gender;
-import ru.gb.final_contact_book.P.Presenter;
+import ru.gb.FINAL.final_contact_book.M.Enum.Gender;
+import ru.gb.FINAL.final_contact_book.P.Presenter;
 
 import java.time.LocalDate;
 import java.util.Arrays;

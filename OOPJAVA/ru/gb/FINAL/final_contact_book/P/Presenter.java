@@ -1,10 +1,10 @@
-package ru.gb.final_contact_book.P;
+package ru.gb.FINAL.final_contact_book.P;
 
-import ru.gb.final_contact_book.Commands.ContactBook;
-import ru.gb.final_contact_book.M.Enum.Gender;
-import ru.gb.final_contact_book.M.Model.Contact;
-import ru.gb.final_contact_book.M.Model.PhoneNumber;
-import ru.gb.final_contact_book.V.View;
+import ru.gb.FINAL.final_contact_book.Commands.ContactBook;
+import ru.gb.FINAL.final_contact_book.M.Enum.Gender;
+import ru.gb.FINAL.final_contact_book.M.Model.Contact;
+import ru.gb.FINAL.final_contact_book.M.Model.PhoneNumber;
+import ru.gb.FINAL.final_contact_book.V.View;
 
 import java.time.LocalDate;
 import java.util.List;

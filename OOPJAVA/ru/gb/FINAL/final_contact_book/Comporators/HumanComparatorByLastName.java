@@ -1,6 +1,6 @@
-package ru.gb.final_contact_book.Comporators;
+package ru.gb.FINAL.final_contact_book.Comporators;
 
-import ru.gb.final_contact_book.M.Model.Contact;
+import ru.gb.FINAL.final_contact_book.M.Model.Contact;
 
 import java.util.Comparator;
 

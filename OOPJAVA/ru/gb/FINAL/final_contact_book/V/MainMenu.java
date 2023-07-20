@@ -1,4 +1,4 @@
-package ru.gb.final_contact_book.V;
+package ru.gb.FINAL.final_contact_book.V;
 
 public class MainMenu {
     private StringBuilder menu;

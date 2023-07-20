@@ -1,4 +1,4 @@
-package ru.gb.final_contact_book.M.Model;
+package ru.gb.FINAL.final_contact_book.M.Model;
 
 import java.io.Serializable;
 

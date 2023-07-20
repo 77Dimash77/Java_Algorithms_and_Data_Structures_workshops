@@ -1,9 +1,9 @@
-package ru.gb.final_contact_book.Commands;
+package ru.gb.FINAL.final_contact_book.Commands;
 
 
 
 
-import ru.gb.final_contact_book.M.Model.Contact;
+import ru.gb.FINAL.final_contact_book.M.Model.Contact;
 
 import java.util.ArrayList;
 
